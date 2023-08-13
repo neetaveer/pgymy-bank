@@ -15,7 +15,7 @@ import ViewAccount from './components/admin/ViewAccount';
 import CreateLoanAccount from './components/admin/CreateLoanAccount.tsx';
 import ViewLoanAccount from './components/admin/ViewLoanAccount';
 import LoanAccStatus from './components/admin/LoanAccStatus';
-import NewEmployee from './components/admin/NewEmployee';
+import NewEmployee from './components/admin/NewEmployee.tsx';
 import ViewEmployee from './components/admin/ViewEmployee';
 import EmpStatus from './components/admin/EmpStatus';
 
